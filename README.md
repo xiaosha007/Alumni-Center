@@ -18,4 +18,4 @@ Here we proposed a new AMS built using Flutter framework with various functions 
 </p>
 
 ## Notes
-Since our project is submitted, we do not continue the hosting plan on hostinger.com and thus, the server is no longer functioning and the app cannot function now.
+Since our project is submitted, we do not continue the hosting plan on hostinger.com and thus, the server is no longer functioning and the apk is not working now.
