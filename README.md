@@ -8,11 +8,13 @@ Here we proposed a new AMS built using Flutter framework with various functions 
   <img src='figures/1.jpg' width=200 height=350>
   <img src='figures/2.jpg' width=200 height=350>
   <img src='figures/3.jpg' width=200 height=350>
+  <img src='figures/4.jpg' width=200 height=350>
 </p>
 <p float="left">
   <img src='figures/4.jpg' width=200 height=350>
   <img src='figures/5.jpg' width=200 height=350>
   <img src='figures/7.jpg' width=200 height=350>
+  <img src='figures/6.jpg' width=200 height=350>
 </p>
 
 ## Notes
